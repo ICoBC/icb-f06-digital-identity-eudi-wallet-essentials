@@ -1,0 +1,33 @@
+{
+  "course_id": "ICB-F06",
+  "repository": "icb-f06-digital-identity-eudi-wallet-essentials",
+  "repository_url": "https://github.com/ICoBC/icb-f06-digital-identity-eudi-wallet-essentials",
+  "title": "Digital Identity and the EUDI Wallet: Essentials",
+  "subtitle": "What the European Digital Identity Wallet is, what it changes for credentials, and what it leaves unchanged.",
+  "version": "1.0.0",
+  "series": "Foundation",
+  "skill": "Digital identity and wallets",
+  "level": "1",
+  "level_name": "Contribute",
+  "stage": "K",
+  "stage_name": "Knowledge",
+  "alignment_code": "ICSF-IDWL-L1-K",
+  "badge_name": "Digital Identity and the EUDI Wallet: Essentials (Knowledge, L1)",
+  "hours": "2",
+  "language": "en-GB",
+  "licence": "CC BY 4.0",
+  "licensor": "International Council on Badges and Credentials e.V.",
+  "web": "https://academy.icobc.net/courses/icb-f06/",
+  "parts": [
+    "About this course",
+    "From eID to wallet",
+    "What a wallet holds",
+    "Issuers, holders and relying parties",
+    "Privacy by design in the wallet",
+    "Status in Europe and in Germany (dated unit)",
+    "Assessment and badge",
+    "Sources and further reading"
+  ],
+  "final_questions": 12,
+  "practice_questions": 15
+}
